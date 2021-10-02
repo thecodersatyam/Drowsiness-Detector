@@ -1,0 +1,143 @@
+body {
+    background: url(https://i.pinimg.com/originals/9b/30/18/9b3018a4b343a33d97ee57560061978e.gif);
+    background-size: 200px 200px;
+  }
+  h1 {
+    font-size: 100px;
+    color: #fff8a0;
+    font-family: "Brush Script Mt";
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #f56711;
+    margin-top: 250px;
+    margin-left: 400px;
+  }
+  h2 {
+    color: #f9cc28;
+  }
+  .desctext {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    color: #789f84;
+  }
+  .bodytext {
+    font-size: 14px;
+    font-family: Helvetica, sans-serif;
+    position: absolute;
+    color: #fff8a0;
+  }
+  img.a {
+    border: 10px double #f9cc28;
+    border-radius: 50%;
+    float: left;
+  }
+  .imagebox {
+    width: 300px;
+    height: 400px;
+    float: left;
+  }
+  .whitespace {
+    width: 1330px;
+    height: 40px;
+  }
+  .navbox {
+    background-color: #fff8a0;
+    border: 10px double #f9cc28;
+    float: right;
+    width: 220px;
+    height: 600px;
+  }
+  .boxtitle {
+    background-color: #789f84;
+    border: 10px double #9ec582;
+    width: 400px;
+    height: 60px;
+    padding: 10px;
+    float: left;
+    margin-top: 30px;
+  }
+  #boxdescription {
+    background-color: #fff8a0;
+    border: 10px double #f9cc28;
+    width: 750px;
+    height: 50px;
+    padding: 5px;
+    margin-top: 80px;
+  }
+  #boxbody {
+    background-color: #789f84;
+    border: 10px double #9ec582;
+    width: 620px;
+    height: 180px;
+    padding: 10px;
+    text-align: left;
+    line-height: 1.6;
+    float: right;
+    position: relative;
+  }
+  .homepage {
+    width: 1300px;
+    height: 620px;
+    padding: 15px;
+    border: 5px solid #9ec582;
+    background: url(https://media.tenor.com/images/7538b3f591a0e4cc68f1cd3dd61d6990/tenor.gif);
+    background-size: 150px 199.8px;
+  }
+  a.a:link,
+  a.a:visited {
+    color: #fff8a0;
+    background-color: #9ec582;
+    border: 5px double #789f84;
+    text-decoration: none;
+    float: right;
+  }
+  a.a:hover {
+    color: #789f84;
+    background-color: #fff8a0;
+    border: 5px double #9ec582;
+    text-decoration: none;
+  }
+  a.b:link,
+  a.b:visited {
+    color: #fff8a0;
+    background-color: #9ec582;
+    border: 5px double #789f84;
+    text-decoration: none;
+  }
+  a.b:hover {
+    color: #789f84;
+    background-color: #fff8a0;
+    border: 5px double #9ec582;
+    text-decoration: none;
+  }
+  a.c:link,
+  a.c:visited {
+    color: #fff8a0;
+    background-color: #9ec582;
+    border: 5px double #789f84;
+    text-decoration: none;
+    float: left;
+  }
+  a.c:hover {
+    color: #789f84;
+    background-color: #fff8a0;
+    border: 5px double #9ec582;
+    text-decoration: none;
+  }
+  .nav {
+    background: url(https://i.pinimg.com/originals/5b/4b/05/5b4b05b3d7594bc97ef92464697b3f76.jpg);
+    background-size: 130px 130px;
+    margin: 12px;
+    padding: 10px;
+    text-align: center;
+  }
+  .nav li {
+    display: inline;
+    padding: 5px;
+  }
+  .nav a {
+    display: inline-block;
+    padding: 5px;
+  }
+  
